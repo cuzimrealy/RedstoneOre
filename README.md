@@ -1,0 +1,2 @@
+# RedstoneOre
+Everyhit = receive Redstone
