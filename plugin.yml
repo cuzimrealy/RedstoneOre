@@ -1,0 +1,5 @@
+name: Redstone
+description: Simple plugin made for ncMagik
+api: 3.0.0
+main: Stroker\Main
+version: 1.0.0
